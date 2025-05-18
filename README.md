@@ -1,5 +1,3 @@
-# Solar_rradiance_Prediction
-#Solar Irradiance Prediction
 
 
 # 🔆 Solar Irradiance Prediction Using Weather Data
